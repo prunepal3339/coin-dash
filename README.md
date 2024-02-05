@@ -1,10 +1,10 @@
 ## Coin Dash - 2D Platformer Game
 
-Initial Screen:  
-[Screenshots/initial.png]
+#### Initial Screen
+![Initial](Screenshots/initial.png)
 
-Gameplay Screen:  
-[Screenshots/gameplay.png]
+#### Gameplay Screen
+![Gameplay](Screenshots/gameplay.png)
 
-Gameover Screen:  
-[Screenshots/gameover.png]
+#### Gameover Screen 
+![Gameover](Screenshots/gameover.png)
